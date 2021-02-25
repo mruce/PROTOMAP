@@ -13,7 +13,7 @@
 **PROTOMAP** is an Auto-Calibration System for Projection Mapping.
 
 ### Well - what does it mean exactly?
-First things first: <link rel="Projection Mapping" href="https://www.wikiwand.com/en/Projection_mapping"> is a technique used to turn objects, often irregularly shaped, into a display surface for video projection. It means it can transform a physical object into a projection canvas and put life into it.
+First things first: [Projection Mapping](http://www.wikiwand.com/en/Projection_mapping) is a technique used to turn objects, often irregularly shaped, into a display surface for video projection. It means it can transform a physical object into a projection canvas and put life into it.
 Creating Mapping installations is hard - not only it requires artistic skills, but also tools and technical knowledge. **PROTOMAP** aims to solve most painful technical difficulties in the process, lowering the threshold for creators.
 Specifically - using **PROTOMAP**, you don't need to worry about technical aspects and focus on creating beautiful content.
 
