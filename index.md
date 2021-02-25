@@ -23,7 +23,7 @@ Right now **PROTOMAP** works with Unity - which means you can create a 3D scene 
 
 More technically - calibration is a three-step process:
 - Structured Light is used to match points on different projectors and cameras
-- Cameras and  projectors optical and geometrical parameters are obtained using Genetic algorithm
+- Cameras' and  projectors' optical and geometrical parameters are obtained using Genetic algorithm
 - 3D model's scale, position and rotation parameters are obtained using Genetic algorithm
 
 Then, calibration is applied to the scene - and the show can go on.
@@ -31,5 +31,5 @@ Then, calibration is applied to the scene - and the show can go on.
 
 ### Right - but why would I use it?
 There are two main benefits of using **PROTOMAP**:
-1. You don’t need to worry about technical aspects of Projection Mapping to achieve great precision. It means, of course, that creating Mapping installation is getting cheaper - as you don’t need highly qualified stuff to make it work
-2. Even slight rearrangement of projectors makes installation look really bad - and it happens rather often. Because Calibration is now automatic, it can be fixed remotely, very fast. That's a great thing on it’s own - but we believe that it’s even more important: it makes it possible to use Mapping in contexts that were not feasible previously - for example it can be used in retail, in multiple locations at time - without an army of staff to manage it. Scale up!
+1. You don’t need to worry about technical aspects of Projection Mapping to achieve great precision. It means, of course, that creating Mapping installation is getting cheaper - as you don’t need highly qualified staff to make it work
+2. Even slight rearrangement of projectors makes installation look really bad - and it happens rather often. Because Calibration is now automatic, it can be fixed remotely, very fast. That's a great thing on it’s own - but we believe that it’s even more important: it makes it possible to use Mapping in contexts that were not feasible previously - for example it can be used in retail, in multiple locations at a time - without an army of staff to manage it. Scale up!
