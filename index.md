@@ -1,4 +1,3 @@
-# PROTOMAP
 ## Auto-Calibration Projection-Mapping Software
 
 
