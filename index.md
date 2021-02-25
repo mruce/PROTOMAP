@@ -7,8 +7,6 @@
 
 <iframe width="100%" src="https://www.youtube.com/embed/WhJKKNXxBf0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![]({https://www.youtube.com/embed/WhJKKNXxBf0})
-
 
 
 ### What is it?
