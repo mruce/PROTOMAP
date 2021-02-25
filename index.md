@@ -4,7 +4,7 @@
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/WhJKKNXxBf0" frameborder="0" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/WhJKKNXxBf0?modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
